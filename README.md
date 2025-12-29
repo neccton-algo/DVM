@@ -2,7 +2,7 @@
 
 This repository contains a generic recipe to estimate the upper and lower boundaries of sound scattering layer as a function of underwater PAR (photosythetically active radiation) to represent dial vertical migration of organisms (mesozooplankton in this example) to be coded in respective biogeochemical models.
 
-The repository includes a jupyter notebook that:
+The repository includes the jupyter notebook, ML_DVM.with.ECOSMOv2025.ipynb,that:
 
 1) Processes ADCP backscatter density at ATWAIN mooring station (82N 31E). The raw data has been retrieved from Norwegian Marine Data Center (**ref ??**). Density anomaly is calculated for each depth level.
 2) Loads OSISAF sea ice concentration corresponding to ATWAIN location.
